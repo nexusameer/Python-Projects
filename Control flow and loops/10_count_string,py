@@ -1,0 +1,5 @@
+list1= ['Ameer', 'Hamza', 'Kamboh', 'Kamran', 'Daud', 'Aby', 'Rashid']
+
+for i in list1:
+    if len(i) > 4:
+        print(i)
